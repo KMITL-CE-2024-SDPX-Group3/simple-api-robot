@@ -55,6 +55,7 @@ Test Addition of Positive Decimal Number
     Call Addition API and Check Result    5.0    5.0    10
 
 Test Addition with Negative Decimals
+    [Documentation]    test adds two negative decimal numbers.
     [Tags]    negative    decimal
     Call Addition API and Check Result    -1.5    -2.5    -4.0
     Call Addition API and Check Result    -0.5    -0.5    -1.0
